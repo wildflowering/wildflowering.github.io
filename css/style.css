@@ -1,1 +1,19 @@
-/* Blank for now */
+@import url(https://fonts.googleapis.com/css?family=Poppins:wght@300;400;500;600;700&display=swap);
+
+html {
+  font-family: 'Poppins', sans-serif;
+}
+
+header {
+  text-align: center;
+  height: 100%;
+  position: relative;
+}
+
+.site {
+  text-align: center;
+  color: #444;
+  background-color: #efefef;
+  position: relative;
+}
+
