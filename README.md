@@ -1,3 +1,0 @@
-# wildflowering.github.io
-
-THIS REPOSITORY IS NOW THE PROPERTY OF THE GERMAN CLUB
