@@ -22,7 +22,7 @@ title: 開野花
 email: anthony.pi@education.nsw.gov.au
 description: >- # this means to ignore newlines until "baseurl:"
   A one-stop-shop for all things German study related.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://wildflowering.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wildflowering
 
@@ -30,6 +30,14 @@ github_username:  wildflowering
 theme: minima
 plugins:
   - jekyll-feed
+
+header_pages:
+  - _pages/index.md
+  - _pages/lessons.md
+  - _pages/about.md
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
