@@ -21,7 +21,7 @@
 title: 開野花
 email: anthony.pi@education.nsw.gov.au
 description: # this means to ignore newlines until "baseurl:"
-  A one-stop-shop for all things German study related. Tom Nook style 💰
+  A one-stop-shop for all things German study related. Tom Nook style.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://wildflowering.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  wildflowering
@@ -37,6 +37,10 @@ header_pages:
 
 include:
   - _pages
+
+collections:
+  lessons:
+    output: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
