@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6,
 p, blockquote, pre,
 ul, ol, dl, figure,
 %vertical-rhythm {
-  margin-bottom: calc($spacing-unit / 2);
+  margin-bottom: $spacing-unit / 2;
 }
 
 
@@ -241,7 +241,7 @@ table {
     }
   }
   th, td {
-    padding: (calc($spacing-unit / 3)) (calc($spacing-unit / 2));
+    padding: (calc($spacing-unit / 3)) ($spacing-unit / 2);
   }
   th {
     background-color: lighten($grey-color-light, 3%);
