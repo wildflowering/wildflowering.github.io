@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Lessons" }}</h2>
+    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
     <ul class="post-list">
       {%- for post in site.posts -%}
       <li>
@@ -30,5 +30,21 @@ layout: default
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
+
+  <h2 class="lesson-list-heading">{{ page.list_title | default: "Lessons" }}</h2>
+  <ul class="lesson-list">
+    {%- for lesson in site.lessons -%}
+    <li>
+      <h3>
+        <a class="lesson-link" href="{{ lesson.url | relative_url }}">
+          {{ lesson.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ lesson.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
 
 </div>
