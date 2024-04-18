@@ -1,9 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+title: Home
 layout: home
 permalink: /
 ---
 
-# Hello!
+This is the homepage!! I'll add a calendar widget here soon I bromise :3
