@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-> "Did you know Chinese philosopher Laozi did not say 'hello' once in his life? This is because he did not speak English. Learn German." - Sun Tzu
+> "Did you know Chinese philosopher Laozi did not say 'hello' once in his life? This is because he did not speak English. This is why you should learn German." - Sun Tzu
 
 <br/>
 
@@ -15,8 +15,7 @@ Occasional updates on German Club will also be posted on this website – that's
 <br/>
 
 ### Relevant Links
----
-<br/>
+
 Intermediate German Club Classroom: `https://classroom.google.com/c/NTc0NTkwNzA3OTI2?cjc=lo2du62`  
 Beginners German Club Classroom: `N/A`
 <br/><br/>
