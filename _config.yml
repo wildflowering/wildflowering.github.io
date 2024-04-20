@@ -1,7 +1,7 @@
 # Meta
 title: 狸猫校
 
-author: Liebe Grüße,
+author: Yours truly,
 email: anthony.pi@education.nsw.gov.au
 
 description: 
@@ -19,7 +19,7 @@ plugins:
 
 markdown: kramdown
 
-show_excerpts: true
+#show_excerpts: true
 
 
 # Site content
