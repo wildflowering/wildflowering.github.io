@@ -10,8 +10,6 @@ permalink: /about/
 
 A small funny website for everything German Club related, beginners and intermediate. Find here concise explainer articles in [Lessons](/lessons/) and the rough schedule for all future meetings in the [Homepage](/).
 
-Occasional updates on German Club will also be posted on this website – that's the hope at least!
-
 <br/>
 
 ### Relevant Links
